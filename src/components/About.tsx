@@ -18,14 +18,8 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
-            <p className="text-lg text-gray-300 mb-6">We are a team of passionate photographers driven by a deep love for storytelling through imagery. At the heart of our work is the belief that every moment — big or small — holds beauty, emotion, and meaning worth capturing.
-
-From vibrant events and intimate portraits to commercial shoots and lifestyle sessions, we specialize in crafting visuals that speak to the soul. Our style blends creativity with precision, aiming to deliver images that are not only visually stunning but also emotionally resonant.</p>
-            <p className="text-lg text-gray-300 mb-8">Every project is a collaboration, and we work closely with you to ensure your vision comes to life in every frame.
-
-Photography is more than our profession — it's our art, our passion, and our way of preserving the moments that matter most.
-
-Let's create something unforgettable together.</p>
+            <p className="text-lg text-gray-300 mb-6">We are a team of passionate photographers driven by a deep love for storytelling through imagery. At the heart of our work is the belief that every moment big or small holds beauty, emotion, and meaning worth capturing.Our style blends creativity with precision, aiming to deliver images that are not only visually stunning but also emotionally resonant.</p>
+            <p className="text-lg text-gray-300 mb-8">Every project is a collaboration, and we work closely with you to ensure your vision comes to life in every frame. Photography is more than our profession it's our art, our passion, and our way of preserving the moments that matter most. Let's create something unforgettable together.</p>
             <div className="grid grid-cols-2 gap-6">
               {stats.map((stat, index) => <div key={index} className="text-center">
                   <stat.icon className="h-8 w-8 text-amber-400 mx-auto mb-2" />
@@ -36,7 +30,7 @@ Let's create something unforgettable together.</p>
           </div>
           
           <div className="relative">
-            <img src="https://images.unsplash.com/photo-1582562124811-c09040d0a901?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="About me" className="rounded-lg shadow-2xl" />
+            <img alt="About me" className="rounded-lg shadow-2xl" src="/lovable-uploads/c0a35477-c03b-4907-9412-35a7f85b2ccc.jpg" />
             <div className="absolute -bottom-6 -right-6 bg-amber-400 text-black p-6 rounded-lg">
               <p className="font-semibold">"Photography is the art of making memories tangible"</p>
             </div>
