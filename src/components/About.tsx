@@ -30,7 +30,7 @@ const About = () => {
           </div>
           
           <div className="relative">
-            <img alt="About me" className="rounded-lg shadow-2xl" src="/lovable-uploads/c0a35477-c03b-4907-9412-35a7f85b2ccc.jpg" />
+            <img alt="About me" className="rounded-lg shadow-2xl" src="/lovable-uploads/b3058bd3-12b1-40f5-971e-1301baa1c5a7.jpg" />
             <div className="absolute -bottom-6 -right-6 bg-amber-400 text-black p-6 rounded-lg">
               <p className="font-semibold">"Photography is the art of making memories tangible"</p>
             </div>
