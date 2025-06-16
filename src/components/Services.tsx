@@ -6,22 +6,22 @@ const Services = () => {
       icon: Heart,
       title: "Wedding Photography",
       description: "Complete wedding day coverage with artistic storytelling and candid moments.",
-      price: "Starting at $2,500",
-      features: ["8-10 hours coverage", "500+ edited photos", "Online gallery", "Print release"],
+      price: "Starting at UGX 1M",
+      features: ["8-10 hours coverage", "100+ edited photos", "Online gallery", "Print release"],
     },
     {
       icon: Users,
       title: "Portrait Sessions",
       description: "Professional portraits for individuals, families, and corporate headshots.",
-      price: "Starting at $350",
-      features: ["1-2 hour session", "50+ edited photos", "Multiple outfits", "Location flexibility"],
+      price: "Starting at UGX 50,000",
+      features: ["1-2 hour session", "5+ edited photos", "Multiple outfits", "Around Studio"],
     },
     {
       icon: Camera,
       title: "Event Photography",
       description: "Corporate events, parties, and special occasions captured with precision.",
-      price: "Starting at $800",
-      features: ["4-6 hours coverage", "200+ edited photos", "Same-day highlights", "Commercial license"],
+      price: "Starting at UGX 100,000",
+      features: ["4-6 hours coverage", "12+ edited photos"],
     },
   ];
 
