@@ -9,10 +9,6 @@ const About = () => {
     number: "200+",
     label: "Happy Clients"
   }, {
-    icon: Award,
-    number: "15+",
-    label: "Awards Won"
-  }, {
     icon: Heart,
     number: "3",
     label: "Years Experience"
@@ -27,9 +23,9 @@ const About = () => {
 From vibrant events and intimate portraits to commercial shoots and lifestyle sessions, we specialize in crafting visuals that speak to the soul. Our style blends creativity with precision, aiming to deliver images that are not only visually stunning but also emotionally resonant.</p>
             <p className="text-lg text-gray-300 mb-8">Every project is a collaboration, and we work closely with you to ensure your vision comes to life in every frame.
 
-Photography is more than our profession — it’s our art, our passion, and our way of preserving the moments that matter most.
+Photography is more than our profession — it's our art, our passion, and our way of preserving the moments that matter most.
 
-Let’s create something unforgettable together.</p>
+Let's create something unforgettable together.</p>
             <div className="grid grid-cols-2 gap-6">
               {stats.map((stat, index) => <div key={index} className="text-center">
                   <stat.icon className="h-8 w-8 text-amber-400 mx-auto mb-2" />
