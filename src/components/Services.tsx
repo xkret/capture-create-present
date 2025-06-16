@@ -1,5 +1,4 @@
-
-import { Camera, Users, Heart, Landscape } from "lucide-react";
+import { Camera, Users, Heart } from "lucide-react";
 
 const Services = () => {
   const services = [
@@ -18,7 +17,7 @@ const Services = () => {
       features: ["1-2 hour session", "50+ edited photos", "Multiple outfits", "Location flexibility"],
     },
     {
-      icon: Landscape,
+      icon: Camera,
       title: "Event Photography",
       description: "Corporate events, parties, and special occasions captured with precision.",
       price: "Starting at $800",
