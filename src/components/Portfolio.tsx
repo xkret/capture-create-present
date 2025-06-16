@@ -8,15 +8,15 @@ const Portfolio = () => {
   const portfolioItems = [
     {
       id: 1,
-      category: "wedding",
-      title: "Sarah & Michael's Wedding",
-      image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      category: "weddings",
+      title: "Nicole & Ivan's Wedding",
+      image: "https://www.instagram.com/p/C1m8H2Ys-Ji/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
     {
       id: 2,
       category: "portrait",
-      title: "Executive Portrait Session",
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      title: "Studio Session",
+      image: "https://www.instagram.com/p/DKCyULvi80u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
     {
       id: 3,
@@ -27,20 +27,20 @@ const Portfolio = () => {
     {
       id: 4,
       category: "outdoors",
-      title: "Ocean Waves",
-      image: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      title: "Off the AC's",
+      image: "https://www.instagram.com/p/C5-i2HBsEDc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
     {
       id: 5,
       category: "corporate",
-      title: "Forest Light",
-      image: "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      title: "Class and Elegancy",
+      image: "https://www.instagram.com/p/CzxajFfirYF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
     {
       id: 6,
       category: "outdoors",
-      title: "Lake Reflection",
-      image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      title: "Sunset",
+      image: "https://www.instagram.com/p/CvrYXiDtoEQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
   ];
 
