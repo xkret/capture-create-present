@@ -20,8 +20,8 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      category: "corporate",
-      title: "Mountain Vista",
+      category: "birthdays",
+      title: "Memorable",
       image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
     {
