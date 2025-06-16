@@ -10,7 +10,7 @@ const Portfolio = () => {
       id: 1,
       category: "weddings",
       title: "Nicole & Ivan's Wedding",
-      image: "https://www.instagram.com/p/C1m8H2Ys-Ji/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.ibb.co/3Y1VtFKb/416026863-566687609013096-4906257871786571624-n.jpg",
     },
     {
       id: 2,
@@ -22,25 +22,25 @@ const Portfolio = () => {
       id: 3,
       category: "birthdays",
       title: "Memorable",
-      image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.ibb.co/ynvQXyDp/ONP2628-1.jpg",
     },
     {
       id: 4,
       category: "outdoors",
       title: "Off the AC's",
-      image: "https://www.instagram.com/p/C5-i2HBsEDc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.ibb.co/h0TFSzn/ONP5351.jpg",
     },
     {
       id: 5,
       category: "corporate",
       title: "Class and Elegancy",
-      image: "https://www.instagram.com/p/CzxajFfirYF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.ibb.co/kg3091vp/ONP0296.jpg",
     },
     {
       id: 6,
       category: "outdoors",
       title: "Sunset",
-      image: "https://www.instagram.com/p/CvrYXiDtoEQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA===rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://i.ibb.co/HDv7pksC/0006517-1.jpg",
     },
   ];
 
