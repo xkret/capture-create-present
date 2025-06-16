@@ -16,7 +16,7 @@ const Portfolio = () => {
       id: 2,
       category: "portrait",
       title: "Studio Session",
-      image: "https://ibb.co/nM4T1y6y",
+      image: "https://i.ibb.co/LdBMgyYy/ONP6900.jpg",
     },
     {
       id: 3,
