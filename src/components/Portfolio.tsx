@@ -8,7 +8,7 @@ const Portfolio = () => {
   const portfolioItems = [
     {
       id: 1,
-      category: "weddings",
+      category: "wedding",
       title: "Nicole & Ivan's Wedding",
       image: "https://i.ibb.co/3Y1VtFKb/416026863-566687609013096-4906257871786571624-n.jpg",
     },
