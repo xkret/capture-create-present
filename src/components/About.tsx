@@ -14,7 +14,7 @@ const About = () => {
     label: "Awards Won"
   }, {
     icon: Heart,
-    number: "8",
+    number: "3",
     label: "Years Experience"
   }];
   return <section id="about" className="py-20 bg-black">
