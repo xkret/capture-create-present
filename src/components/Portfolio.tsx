@@ -20,7 +20,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      category: "landscape",
+      category: "corporate",
       title: "Mountain Vista",
       image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
@@ -32,7 +32,7 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      category: "landscape",
+      category: "corporate",
       title: "Forest Light",
       image: "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
@@ -44,7 +44,7 @@ const Portfolio = () => {
     },
   ];
 
-  const categories = ["all", "wedding", "portrait", "landscape", "outdoors"];
+  const categories = ["all", "wedding", "portrait", "corporate", "outdoors"];
 
   const filteredItems = filter === "all" 
     ? portfolioItems 
