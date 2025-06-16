@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Eye } from "lucide-react";
 
@@ -27,7 +26,7 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      category: "nature",
+      category: "outdoors",
       title: "Ocean Waves",
       image: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
@@ -39,13 +38,13 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      category: "nature",
+      category: "outdoors",
       title: "Lake Reflection",
       image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     },
   ];
 
-  const categories = ["all", "wedding", "portrait", "landscape", "nature"];
+  const categories = ["all", "wedding", "portrait", "landscape", "outdoors"];
 
   const filteredItems = filter === "all" 
     ? portfolioItems 
